@@ -1,0 +1,4 @@
+Confusion Matrix:
+[[121  30]
+ [ 27  53]]
+Accuracy Score: 0.7532467532467533
